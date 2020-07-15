@@ -10,4 +10,5 @@ import io.cucumber.junit.CucumberOptions;
 ,plugin ="json:target/jsonReports/cucumber-report.json",glue= {"stepDefinitions"})
 public class TestRunner {
 //,tags= ("@DeletePlace")
+	//new line for github
 }
